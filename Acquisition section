@@ -44,7 +44,7 @@ if _name_ == '_main_':
     material1 = Material(1, 'Book A', 'Author X', 'Publisher P')
     material2 = Material(2, 'Book B', 'Author Y', 'Publisher Q')
     material3 = Material(3, 'Book C', 'Author Z', 'Publisher R')
-    
+
     acquisition_section.add_to_order_list(material1)
     acquisition_section.add_to_order_list(material2)
     acquisition_section.add_to_order_list(material3)
