@@ -1,1 +1,2 @@
-A simple
+A simple Library Management System for the Acquisition section:
+This section of the library is responsible for recording the required materials and tracking their procurement process. Once the materials are requested and obtained, the staff cross-references them with the recorded list to ensure accuracy. If any received materials don't match the order, they are returned to the vendor. On the other hand, materials that align with the order are marked as library property. Upon arrival of newly ordered materials, they are initially directed to the acquisition section.
